@@ -27,7 +27,7 @@ jobs:
       # Override language selection by uncommenting this and choosing your languages
       with:
         languages: python
-        config-file: ./.github/workflows/scan.yaml
+        config-file: ./.github/workflows/test2.yaml
       
     - name: Set up Python environment
       uses: actions/setup-python@v2
